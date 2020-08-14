@@ -1,0 +1,525 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "AppDelegate"
+provides-nominal:
+- "6Runner11AppDelegateC"
+provides-member:
+- ["6Runner11AppDelegateC", ""]
+provides-dynamic-lookup:
+- "application"
+depends-top-level:
+- !private "=="
+- "AppCoordinator"
+- "AppDelegate"
+- "AssignmentPrecedence"
+- "Bool"
+- !private "BooleanLiteralType"
+- "CastingPrecedence"
+- "FlutterAppDelegate"
+- !private "FlutterMethodCall"
+- !private "FlutterMethodChannel"
+- !private "FlutterMethodNotImplemented"
+- !private "FlutterResult"
+- !private "FlutterViewController"
+- !private "GeneratedPluginRegistrant"
+- !private "StringLiteralType"
+- "UIApplication"
+- !private "UINavigationController"
+- !private "Void"
+depends-member:
+- !private ["6Runner14AppCoordinatorC", "deinit"]
+- !private ["6Runner14AppCoordinatorC", "init"]
+- !private ["6Runner14AppCoordinatorC", "start"]
+- ["6Runner11AppDelegateC", "AppCoordinator"]
+- ["6Runner11AppDelegateC", "Bool"]
+- !private ["6Runner11AppDelegateC", "FlutterMethodCall"]
+- !private ["6Runner11AppDelegateC", "FlutterMethodChannel"]
+- !private ["6Runner11AppDelegateC", "FlutterMethodNotImplemented"]
+- !private ["6Runner11AppDelegateC", "FlutterResult"]
+- !private ["6Runner11AppDelegateC", "FlutterViewController"]
+- !private ["6Runner11AppDelegateC", "GeneratedPluginRegistrant"]
+- ["6Runner11AppDelegateC", "UIApplication"]
+- !private ["6Runner11AppDelegateC", "UINavigationController"]
+- !private ["6Runner11AppDelegateC", "Void"]
+- ["6Runner11AppDelegateC", "application"]
+- ["6Runner11AppDelegateC", "deinit"]
+- ["6Runner11AppDelegateC", "init"]
+- !private ["6Runner11AppDelegateC", "mainCoordinator"]
+- !private ["6Runner11AppDelegateC", "window"]
+- !private ["6Runner15BaseCoordinatorC", "start"]
+- !private ["So15CALayerDelegateP", "makeKeyAndVisible"]
+- !private ["So15CALayerDelegateP", "rootViewController"]
+- !private ["s7CVarArgP", "AppCoordinator"]
+- !private ["s7CVarArgP", "FlutterMethodChannel"]
+- !private ["s7CVarArgP", "FlutterMethodNotImplemented"]
+- !private ["s7CVarArgP", "GeneratedPluginRegistrant"]
+- ["s7CVarArgP", "LaunchOptionsKey"]
+- !private ["s7CVarArgP", "UINavigationController"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "application"]
+- !private ["s7CVarArgP", "binaryMessenger"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "isNavigationBarHidden"]
+- !private ["s7CVarArgP", "mainCoordinator"]
+- !private ["s7CVarArgP", "makeKeyAndVisible"]
+- !private ["s7CVarArgP", "method"]
+- !private ["s7CVarArgP", "register"]
+- !private ["s7CVarArgP", "rootViewController"]
+- !private ["s7CVarArgP", "setMethodCallHandler"]
+- !private ["s7CVarArgP", "window"]
+- !private ["6Runner11CoordinatorP", "init"]
+- !private ["6Runner11CoordinatorP", "start"]
+- !private ["s28CustomDebugStringConvertibleP", "AppCoordinator"]
+- !private ["s28CustomDebugStringConvertibleP", "FlutterMethodChannel"]
+- !private ["s28CustomDebugStringConvertibleP", "FlutterMethodNotImplemented"]
+- !private ["s28CustomDebugStringConvertibleP", "GeneratedPluginRegistrant"]
+- ["s28CustomDebugStringConvertibleP", "LaunchOptionsKey"]
+- !private ["s28CustomDebugStringConvertibleP", "UINavigationController"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "application"]
+- !private ["s28CustomDebugStringConvertibleP", "binaryMessenger"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "isNavigationBarHidden"]
+- !private ["s28CustomDebugStringConvertibleP", "mainCoordinator"]
+- !private ["s28CustomDebugStringConvertibleP", "makeKeyAndVisible"]
+- !private ["s28CustomDebugStringConvertibleP", "method"]
+- !private ["s28CustomDebugStringConvertibleP", "register"]
+- !private ["s28CustomDebugStringConvertibleP", "rootViewController"]
+- !private ["s28CustomDebugStringConvertibleP", "setMethodCallHandler"]
+- !private ["s28CustomDebugStringConvertibleP", "window"]
+- !private ["s23CustomStringConvertibleP", "AppCoordinator"]
+- !private ["s23CustomStringConvertibleP", "FlutterMethodChannel"]
+- !private ["s23CustomStringConvertibleP", "FlutterMethodNotImplemented"]
+- !private ["s23CustomStringConvertibleP", "GeneratedPluginRegistrant"]
+- ["s23CustomStringConvertibleP", "LaunchOptionsKey"]
+- !private ["s23CustomStringConvertibleP", "UINavigationController"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "application"]
+- !private ["s23CustomStringConvertibleP", "binaryMessenger"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "isNavigationBarHidden"]
+- !private ["s23CustomStringConvertibleP", "mainCoordinator"]
+- !private ["s23CustomStringConvertibleP", "makeKeyAndVisible"]
+- !private ["s23CustomStringConvertibleP", "method"]
+- !private ["s23CustomStringConvertibleP", "register"]
+- !private ["s23CustomStringConvertibleP", "rootViewController"]
+- !private ["s23CustomStringConvertibleP", "setMethodCallHandler"]
+- !private ["s23CustomStringConvertibleP", "window"]
+- !private ["SQ", "AppCoordinator"]
+- !private ["SQ", "FlutterMethodChannel"]
+- !private ["SQ", "FlutterMethodNotImplemented"]
+- !private ["SQ", "GeneratedPluginRegistrant"]
+- ["SQ", "LaunchOptionsKey"]
+- !private ["SQ", "UINavigationController"]
+- ["SQ", ""]
+- !private ["SQ", "application"]
+- !private ["SQ", "binaryMessenger"]
+- !private ["SQ", "init"]
+- !private ["SQ", "isNavigationBarHidden"]
+- !private ["SQ", "mainCoordinator"]
+- !private ["SQ", "makeKeyAndVisible"]
+- !private ["SQ", "method"]
+- !private ["SQ", "register"]
+- !private ["SQ", "rootViewController"]
+- !private ["SQ", "setMethodCallHandler"]
+- !private ["SQ", "window"]
+- ["So18FlutterAppDelegateC", "AppCoordinator"]
+- ["So18FlutterAppDelegateC", "Bool"]
+- !private ["So18FlutterAppDelegateC", "FlutterMethodCall"]
+- !private ["So18FlutterAppDelegateC", "FlutterMethodChannel"]
+- !private ["So18FlutterAppDelegateC", "FlutterMethodNotImplemented"]
+- !private ["So18FlutterAppDelegateC", "FlutterResult"]
+- !private ["So18FlutterAppDelegateC", "FlutterViewController"]
+- !private ["So18FlutterAppDelegateC", "GeneratedPluginRegistrant"]
+- ["So18FlutterAppDelegateC", "UIApplication"]
+- !private ["So18FlutterAppDelegateC", "UINavigationController"]
+- !private ["So18FlutterAppDelegateC", "Void"]
+- ["So18FlutterAppDelegateC", ""]
+- ["So18FlutterAppDelegateC", "application"]
+- ["So18FlutterAppDelegateC", "init"]
+- ["So18FlutterAppDelegateC", "mainCoordinator"]
+- !private ["So18FlutterAppDelegateC", "window"]
+- !private ["So27FlutterAppLifeCycleProviderP", "AppCoordinator"]
+- !private ["So27FlutterAppLifeCycleProviderP", "FlutterMethodChannel"]
+- !private ["So27FlutterAppLifeCycleProviderP", "FlutterMethodNotImplemented"]
+- !private ["So27FlutterAppLifeCycleProviderP", "GeneratedPluginRegistrant"]
+- !private ["So27FlutterAppLifeCycleProviderP", "UINavigationController"]
+- ["So27FlutterAppLifeCycleProviderP", ""]
+- !private ["So27FlutterAppLifeCycleProviderP", "application"]
+- !private ["So27FlutterAppLifeCycleProviderP", "init"]
+- !private ["So27FlutterAppLifeCycleProviderP", "mainCoordinator"]
+- !private ["So27FlutterAppLifeCycleProviderP", "window"]
+- !private ["So17FlutterMethodCallC", "method"]
+- !private ["So20FlutterMethodChannelC", "init"]
+- !private ["So20FlutterMethodChannelC", "setMethodCallHandler"]
+- !private ["So21FlutterPluginRegistryP", "AppCoordinator"]
+- !private ["So21FlutterPluginRegistryP", "FlutterMethodChannel"]
+- !private ["So21FlutterPluginRegistryP", "FlutterMethodNotImplemented"]
+- !private ["So21FlutterPluginRegistryP", "GeneratedPluginRegistrant"]
+- !private ["So21FlutterPluginRegistryP", "UINavigationController"]
+- ["So21FlutterPluginRegistryP", ""]
+- !private ["So21FlutterPluginRegistryP", "application"]
+- !private ["So21FlutterPluginRegistryP", "binaryMessenger"]
+- !private ["So21FlutterPluginRegistryP", "init"]
+- !private ["So21FlutterPluginRegistryP", "mainCoordinator"]
+- !private ["So21FlutterPluginRegistryP", "window"]
+- !private ["So22FlutterTextureRegistryP", "binaryMessenger"]
+- !private ["6Runner31FlutterToAppCoordinatorDelegateP", "init"]
+- !private ["6Runner31FlutterToAppCoordinatorDelegateP", "start"]
+- !private ["So21FlutterViewControllerC", "binaryMessenger"]
+- !private ["So25GeneratedPluginRegistrantC", "register"]
+- !private ["SH", "AppCoordinator"]
+- !private ["SH", "FlutterMethodChannel"]
+- !private ["SH", "FlutterMethodNotImplemented"]
+- !private ["SH", "GeneratedPluginRegistrant"]
+- ["SH", "LaunchOptionsKey"]
+- !private ["SH", "UINavigationController"]
+- ["SH", ""]
+- !private ["SH", "application"]
+- !private ["SH", "binaryMessenger"]
+- !private ["SH", "init"]
+- !private ["SH", "isNavigationBarHidden"]
+- !private ["SH", "mainCoordinator"]
+- !private ["SH", "makeKeyAndVisible"]
+- !private ["SH", "method"]
+- !private ["SH", "register"]
+- !private ["SH", "rootViewController"]
+- !private ["SH", "setMethodCallHandler"]
+- !private ["SH", "window"]
+- !private ["So8NSCodingP", "binaryMessenger"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "isNavigationBarHidden"]
+- !private ["So8NSCodingP", "makeKeyAndVisible"]
+- !private ["So8NSCodingP", "rootViewController"]
+- !private ["So26NSExtensionRequestHandlingP", "binaryMessenger"]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "isNavigationBarHidden"]
+- ["So8NSObjectC", "AppCoordinator"]
+- ["So8NSObjectC", "Bool"]
+- !private ["So8NSObjectC", "FlutterMethodCall"]
+- !private ["So8NSObjectC", "FlutterMethodChannel"]
+- !private ["So8NSObjectC", "FlutterMethodNotImplemented"]
+- !private ["So8NSObjectC", "FlutterResult"]
+- !private ["So8NSObjectC", "FlutterViewController"]
+- !private ["So8NSObjectC", "GeneratedPluginRegistrant"]
+- ["So8NSObjectC", "LaunchOptionsKey"]
+- ["So8NSObjectC", "UIApplication"]
+- !private ["So8NSObjectC", "UINavigationController"]
+- !private ["So8NSObjectC", "Void"]
+- ["So8NSObjectC", "application"]
+- !private ["So8NSObjectC", "binaryMessenger"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "isNavigationBarHidden"]
+- ["So8NSObjectC", "mainCoordinator"]
+- !private ["So8NSObjectC", "makeKeyAndVisible"]
+- !private ["So8NSObjectC", "method"]
+- !private ["So8NSObjectC", "register"]
+- !private ["So8NSObjectC", "rootViewController"]
+- !private ["So8NSObjectC", "setMethodCallHandler"]
+- !private ["So8NSObjectC", "window"]
+- !private ["So8NSObjectP", "AppCoordinator"]
+- !private ["So8NSObjectP", "FlutterMethodChannel"]
+- !private ["So8NSObjectP", "FlutterMethodNotImplemented"]
+- !private ["So8NSObjectP", "GeneratedPluginRegistrant"]
+- ["So8NSObjectP", "LaunchOptionsKey"]
+- !private ["So8NSObjectP", "UINavigationController"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "application"]
+- !private ["So8NSObjectP", "binaryMessenger"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "isNavigationBarHidden"]
+- !private ["So8NSObjectP", "mainCoordinator"]
+- !private ["So8NSObjectP", "makeKeyAndVisible"]
+- !private ["So8NSObjectP", "method"]
+- !private ["So8NSObjectP", "register"]
+- !private ["So8NSObjectP", "rootViewController"]
+- !private ["So8NSObjectP", "setMethodCallHandler"]
+- !private ["So8NSObjectP", "window"]
+- !private ["6Runner28NewsToAppCoordinatorDelegateP", "init"]
+- !private ["6Runner28NewsToAppCoordinatorDelegateP", "start"]
+- !private ["So29UIAccessibilityIdentificationP", "makeKeyAndVisible"]
+- !private ["So29UIAccessibilityIdentificationP", "rootViewController"]
+- !private ["So12UIAppearanceP", "makeKeyAndVisible"]
+- !private ["So12UIAppearanceP", "rootViewController"]
+- !private ["So21UIAppearanceContainerP", "binaryMessenger"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "isNavigationBarHidden"]
+- !private ["So21UIAppearanceContainerP", "makeKeyAndVisible"]
+- !private ["So21UIAppearanceContainerP", "rootViewController"]
+- ["So13UIApplicationC", "LaunchOptionsKey"]
+- !private ["So21UIApplicationDelegateP", "AppCoordinator"]
+- !private ["So21UIApplicationDelegateP", "FlutterMethodChannel"]
+- !private ["So21UIApplicationDelegateP", "FlutterMethodNotImplemented"]
+- !private ["So21UIApplicationDelegateP", "GeneratedPluginRegistrant"]
+- !private ["So21UIApplicationDelegateP", "UINavigationController"]
+- ["So21UIApplicationDelegateP", ""]
+- !private ["So21UIApplicationDelegateP", "application"]
+- !private ["So21UIApplicationDelegateP", "init"]
+- !private ["So21UIApplicationDelegateP", "mainCoordinator"]
+- !private ["So21UIApplicationDelegateP", "window"]
+- !private ["So18UIContentContainerP", "binaryMessenger"]
+- !private ["So18UIContentContainerP", "init"]
+- !private ["So18UIContentContainerP", "isNavigationBarHidden"]
+- !private ["So17UICoordinateSpaceP", "makeKeyAndVisible"]
+- !private ["So17UICoordinateSpaceP", "rootViewController"]
+- !private ["So13UIDynamicItemP", "makeKeyAndVisible"]
+- !private ["So13UIDynamicItemP", "rootViewController"]
+- !private ["So18UIFocusEnvironmentP", "binaryMessenger"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "isNavigationBarHidden"]
+- !private ["So18UIFocusEnvironmentP", "makeKeyAndVisible"]
+- !private ["So18UIFocusEnvironmentP", "rootViewController"]
+- !private ["So11UIFocusItemP", "makeKeyAndVisible"]
+- !private ["So11UIFocusItemP", "rootViewController"]
+- !private ["So20UIFocusItemContainerP", "makeKeyAndVisible"]
+- !private ["So20UIFocusItemContainerP", "rootViewController"]
+- !private ["So24UILargeContentViewerItemP", "makeKeyAndVisible"]
+- !private ["So24UILargeContentViewerItemP", "rootViewController"]
+- !private ["So22UINavigationControllerC", "init"]
+- !private ["So22UINavigationControllerC", "isNavigationBarHidden"]
+- !private ["So30UIPasteConfigurationSupportingP", "AppCoordinator"]
+- !private ["So30UIPasteConfigurationSupportingP", "FlutterMethodChannel"]
+- !private ["So30UIPasteConfigurationSupportingP", "FlutterMethodNotImplemented"]
+- !private ["So30UIPasteConfigurationSupportingP", "GeneratedPluginRegistrant"]
+- ["So30UIPasteConfigurationSupportingP", "LaunchOptionsKey"]
+- !private ["So30UIPasteConfigurationSupportingP", "UINavigationController"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So30UIPasteConfigurationSupportingP", "application"]
+- !private ["So30UIPasteConfigurationSupportingP", "binaryMessenger"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "isNavigationBarHidden"]
+- !private ["So30UIPasteConfigurationSupportingP", "mainCoordinator"]
+- !private ["So30UIPasteConfigurationSupportingP", "makeKeyAndVisible"]
+- !private ["So30UIPasteConfigurationSupportingP", "rootViewController"]
+- !private ["So30UIPasteConfigurationSupportingP", "window"]
+- ["So11UIResponderC", "AppCoordinator"]
+- ["So11UIResponderC", "Bool"]
+- !private ["So11UIResponderC", "FlutterMethodCall"]
+- !private ["So11UIResponderC", "FlutterMethodChannel"]
+- !private ["So11UIResponderC", "FlutterMethodNotImplemented"]
+- !private ["So11UIResponderC", "FlutterResult"]
+- !private ["So11UIResponderC", "FlutterViewController"]
+- !private ["So11UIResponderC", "GeneratedPluginRegistrant"]
+- ["So11UIResponderC", "LaunchOptionsKey"]
+- ["So11UIResponderC", "UIApplication"]
+- !private ["So11UIResponderC", "UINavigationController"]
+- !private ["So11UIResponderC", "Void"]
+- ["So11UIResponderC", "application"]
+- !private ["So11UIResponderC", "binaryMessenger"]
+- ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "isNavigationBarHidden"]
+- ["So11UIResponderC", "mainCoordinator"]
+- !private ["So11UIResponderC", "makeKeyAndVisible"]
+- !private ["So11UIResponderC", "rootViewController"]
+- !private ["So11UIResponderC", "window"]
+- !private ["So30UIResponderStandardEditActionsP", "AppCoordinator"]
+- !private ["So30UIResponderStandardEditActionsP", "FlutterMethodChannel"]
+- !private ["So30UIResponderStandardEditActionsP", "FlutterMethodNotImplemented"]
+- !private ["So30UIResponderStandardEditActionsP", "GeneratedPluginRegistrant"]
+- ["So30UIResponderStandardEditActionsP", "LaunchOptionsKey"]
+- !private ["So30UIResponderStandardEditActionsP", "UINavigationController"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So30UIResponderStandardEditActionsP", "application"]
+- !private ["So30UIResponderStandardEditActionsP", "binaryMessenger"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "isNavigationBarHidden"]
+- !private ["So30UIResponderStandardEditActionsP", "mainCoordinator"]
+- !private ["So30UIResponderStandardEditActionsP", "makeKeyAndVisible"]
+- !private ["So30UIResponderStandardEditActionsP", "rootViewController"]
+- !private ["So30UIResponderStandardEditActionsP", "window"]
+- !private ["So16UIStateRestoringP", "binaryMessenger"]
+- !private ["So16UIStateRestoringP", "init"]
+- !private ["So16UIStateRestoringP", "isNavigationBarHidden"]
+- !private ["So18UITraitEnvironmentP", "binaryMessenger"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "isNavigationBarHidden"]
+- !private ["So18UITraitEnvironmentP", "makeKeyAndVisible"]
+- !private ["So18UITraitEnvironmentP", "rootViewController"]
+- !private ["So23UIUserActivityRestoringP", "AppCoordinator"]
+- !private ["So23UIUserActivityRestoringP", "FlutterMethodChannel"]
+- !private ["So23UIUserActivityRestoringP", "FlutterMethodNotImplemented"]
+- !private ["So23UIUserActivityRestoringP", "GeneratedPluginRegistrant"]
+- ["So23UIUserActivityRestoringP", "LaunchOptionsKey"]
+- !private ["So23UIUserActivityRestoringP", "UINavigationController"]
+- ["So23UIUserActivityRestoringP", ""]
+- !private ["So23UIUserActivityRestoringP", "application"]
+- !private ["So23UIUserActivityRestoringP", "binaryMessenger"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "isNavigationBarHidden"]
+- !private ["So23UIUserActivityRestoringP", "mainCoordinator"]
+- !private ["So23UIUserActivityRestoringP", "makeKeyAndVisible"]
+- !private ["So23UIUserActivityRestoringP", "rootViewController"]
+- !private ["So23UIUserActivityRestoringP", "window"]
+- !private ["So6UIViewC", "makeKeyAndVisible"]
+- !private ["So6UIViewC", "rootViewController"]
+- !private ["So16UIViewControllerC", "binaryMessenger"]
+- !private ["So16UIViewControllerC", "init"]
+- !private ["So16UIViewControllerC", "isNavigationBarHidden"]
+- !private ["So8UIWindowC", "makeKeyAndVisible"]
+- !private ["So8UIWindowC", "rootViewController"]
+- !private ["So32UNUserNotificationCenterDelegateP", "AppCoordinator"]
+- !private ["So32UNUserNotificationCenterDelegateP", "FlutterMethodChannel"]
+- !private ["So32UNUserNotificationCenterDelegateP", "FlutterMethodNotImplemented"]
+- !private ["So32UNUserNotificationCenterDelegateP", "GeneratedPluginRegistrant"]
+- !private ["So32UNUserNotificationCenterDelegateP", "UINavigationController"]
+- ["So32UNUserNotificationCenterDelegateP", ""]
+- !private ["So32UNUserNotificationCenterDelegateP", "application"]
+- !private ["So32UNUserNotificationCenterDelegateP", "init"]
+- !private ["So32UNUserNotificationCenterDelegateP", "mainCoordinator"]
+- !private ["So32UNUserNotificationCenterDelegateP", "window"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "AppCoordinator"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "FlutterMethodChannel"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "FlutterMethodNotImplemented"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "GeneratedPluginRegistrant"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "LaunchOptionsKey"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UINavigationController"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "application"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "binaryMessenger"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "isNavigationBarHidden"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "mainCoordinator"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "makeKeyAndVisible"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "method"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "register"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "rootViewController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "setMethodCallHandler"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "window"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "AppCoordinator"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "FlutterMethodChannel"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "FlutterMethodNotImplemented"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "GeneratedPluginRegistrant"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "LaunchOptionsKey"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "UINavigationController"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", ""]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "application"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "binaryMessenger"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "init"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "isNavigationBarHidden"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "mainCoordinator"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "makeKeyAndVisible"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "method"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "register"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "rootViewController"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "setMethodCallHandler"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "window"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "makeKeyAndVisible"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "rootViewController"]
+depends-nominal:
+- !private "6Runner14AppCoordinatorC"
+- "6Runner11AppDelegateC"
+- !private "6Runner15BaseCoordinatorC"
+- !private "So15CALayerDelegateP"
+- "s7CVarArgP"
+- !private "6Runner11CoordinatorP"
+- "s28CustomDebugStringConvertibleP"
+- "s23CustomStringConvertibleP"
+- "SQ"
+- "So18FlutterAppDelegateC"
+- "So27FlutterAppLifeCycleProviderP"
+- !private "So17FlutterMethodCallC"
+- !private "So20FlutterMethodChannelC"
+- "So21FlutterPluginRegistryP"
+- !private "So22FlutterTextureRegistryP"
+- !private "6Runner31FlutterToAppCoordinatorDelegateP"
+- !private "So21FlutterViewControllerC"
+- !private "So25GeneratedPluginRegistrantC"
+- "SH"
+- !private "So8NSCodingP"
+- !private "So26NSExtensionRequestHandlingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "6Runner28NewsToAppCoordinatorDelegateP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- !private "So21UIAppearanceContainerP"
+- "So13UIApplicationC"
+- "So21UIApplicationDelegateP"
+- !private "So18UIContentContainerP"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- !private "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So20UIFocusItemContainerP"
+- !private "So24UILargeContentViewerItemP"
+- !private "So22UINavigationControllerC"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- !private "So16UIStateRestoringP"
+- !private "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- !private "So6UIViewC"
+- !private "So16UIViewControllerC"
+- !private "So8UIWindowC"
+- "So32UNUserNotificationCenterDelegateP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- !private "s38__DefaultCustomPlaygroundQuickLookableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/usr/lib/swift/ObjectiveC.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/usr/lib/swift/CoreMedia.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/usr/lib/swift/CoreImage.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/usr/lib/swift/QuartzCore.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/usr/lib/swift/Dispatch.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/usr/lib/swift/Metal.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/usr/lib/swift/Darwin.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/usr/lib/swift/Foundation.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/usr/lib/swift/CoreFoundation.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/usr/lib/swift/CoreAudio.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/usr/lib/swift/CoreGraphics.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/usr/lib/swift/Swift.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/usr/lib/swift/UIKit.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/usr/lib/swift/SwiftOnoneSupport.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/System/Library/Frameworks/Combine.framework/Modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreMedia.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreAudio.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/dev/Desktop/flutter projects/card_payment/ios/Flutter/Flutter.framework/Headers/FlutterCallbackCache.h"
+- "/Users/dev/Desktop/flutter projects/card_payment/ios/Flutter/Flutter.framework/Headers/FlutterEngine.h"
+- "/Users/dev/Desktop/flutter projects/card_payment/ios/Flutter/Flutter.framework/Headers/FlutterTexture.h"
+- "/Users/dev/Desktop/flutter projects/card_payment/ios/Flutter/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h"
+- "/Users/dev/Desktop/flutter projects/card_payment/ios/Flutter/Flutter.framework/Headers/FlutterAppDelegate.h"
+- "/Users/dev/Desktop/flutter projects/card_payment/ios/Flutter/Flutter.framework/Headers/FlutterPlugin.h"
+- "/Users/dev/Desktop/flutter projects/card_payment/ios/Runner/Runner-Bridging-Header.h"
+- "/Users/dev/Desktop/flutter projects/card_payment/ios/Flutter/Flutter.framework/Headers/FlutterBinaryMessenger.h"
+- "/Users/dev/Desktop/flutter projects/card_payment/ios/Flutter/Flutter.framework/Headers/FlutterViewController.h"
+- "/Users/dev/Desktop/flutter projects/card_payment/ios/Flutter/Flutter.framework/Headers/FlutterHeadlessDartRunner.h"
+- "/Users/dev/Desktop/flutter projects/card_payment/ios/Flutter/Flutter.framework/Headers/Flutter.h"
+- "/Users/dev/Desktop/flutter projects/card_payment/ios/Flutter/Flutter.framework/Headers/FlutterCodecs.h"
+- "/Users/dev/Desktop/flutter projects/card_payment/ios/Flutter/Flutter.framework/Headers/FlutterChannels.h"
+- "/Users/dev/Desktop/flutter projects/card_payment/ios/Flutter/Flutter.framework/Headers/FlutterMacros.h"
+- "/Users/dev/Desktop/flutter projects/card_payment/ios/Flutter/Flutter.framework/Headers/FlutterPlatformViews.h"
+- "/Users/dev/Desktop/flutter projects/card_payment/ios/Flutter/Flutter.framework/Headers/FlutterDartProject.h"
+- "/Users/dev/Desktop/flutter projects/card_payment/ios/Runner/GeneratedPluginRegistrant.h"
+- "/Users/dev/Desktop/flutter projects/card_payment/ios/Flutter/Flutter.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/System/Library/Frameworks/CoreMedia.framework/Headers/CoreMedia.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/System/Library/Frameworks/CoreAudioTypes.framework/Headers/CoreAudioTypes.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/System/Library/Frameworks/WebKit.framework/Headers/WebKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "c92d25a066f94cbfed7e5c771f34517f"
