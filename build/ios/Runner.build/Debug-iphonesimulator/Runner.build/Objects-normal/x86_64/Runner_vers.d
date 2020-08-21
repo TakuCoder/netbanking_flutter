@@ -1,2 +1,2 @@
 dependencies: \
-  /Users/dev/Desktop/flutter\ projects/card_payment/build/ios/Runner.build/Debug-iphonesimulator/Runner.build/DerivedSources/Runner_vers.c
+  /Users/dev/Desktop/Projects/office/ios/netbanking_flutter/build/ios/Runner.build/Debug-iphonesimulator/Runner.build/DerivedSources/Runner_vers.c
